@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EfosaFluence
-- 👀 I’m interested in renewable energy, electricital grid and sustainable solutions
+- 👀 I’m interested in renewable energy, power grid and sustainable solutions
 - 🌱 I’m currently learning the more about Fluence OS interaction in the transmission space 
 - 💞️ Please feel free to reach me on efosa.osakue@fluence.com
 <!---
